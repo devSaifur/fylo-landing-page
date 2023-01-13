@@ -158,7 +158,7 @@ header {
   cursor: pointer;
 }
 button:hover {
-  opacity: 50%;
+  background-color: rgba(48, 101, 248, 0.7);
 }
 .social-proof {
   display: grid;
